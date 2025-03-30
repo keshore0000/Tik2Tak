@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485893384981",
+    "project_id": "auth-1-ebf16",
+    "storage_bucket": "auth-1-ebf16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485893384981:android:359b45e1b272fb77dc171c",
+        "android_client_info": {
+          "package_name": "com.example.tiksamnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1rEja1o2VAiBjSzA7OcP7SSWH_S_VQN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
